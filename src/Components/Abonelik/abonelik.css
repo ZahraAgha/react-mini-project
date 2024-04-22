@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.left-side-abone img {
+  width: 641px;
+  height: 656px;
+}
+.left-side-abone {
+  width: 50%;
+}
+
+.abone {
+  width: 100%;
+  align-items: center;
+}
+
+.right-side-abone {
+  width: 50%;
+  padding-left: 160px;
+}
+
+.brand span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  font-size: 18px;
+  color: #6b7385;
+  
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.num5 {
+  width: 85px;
+  height: 45px;
+}
+
+.start {
+  width: 138px;
+  height: 36px;
+}
+
+.forbes {
+  width: 131px;
+  height: 36px;
+}
+.tech {
+  width: 79px;
+  height: 35px;
+}
+.start2 {
+  width: 79px;
+  height: 35px;
+}

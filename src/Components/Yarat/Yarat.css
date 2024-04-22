@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.yarat {
+  background: linear-gradient(
+    72deg,
+    rgba(227, 220, 255, 1) 39%,
+    rgba(242, 246, 255, 1) 63%
+  );
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.contentyarat {
+  padding-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+span {
+  font-size: 20px;
+  color: #6a7384;
+  
+}
+
+h1 {
+  font-size: 50px;
+  width: 50%;
+  padding-bottom: 15px;
+}
+
+input {
+  width: 500px;
+
+  border-radius: 30px;
+  width: 570px;
+  height: 60px;
+  border-color: #6a7384;
+  position: relative;
+  margin-bottom: 13px;
+}
+
+.btn3 {
+  border-radius: 30px;
+  cursor: pointer;
+  background: linear-gradient(
+    72deg,
+    rgba(81, 102, 238, 1) 36%,
+    rgba(183, 130, 221, 1) 81%
+  );
+  color: white;
+}
+
+::placeholder {
+  font-size: 20px;
+  padding-left: 90px;
+}
+
+.kofeal {
+  position: absolute;
+}
+.subtitleyarat {
+  font-size: 22px;
+}

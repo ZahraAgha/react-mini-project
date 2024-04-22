@@ -1,0 +1,125 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Toğrul Ələkbər",
+            "profession": "İnsan inkişafçısı",
+            "image": "https://kofe.al/storage/images/users/65d7377a20176.JPG",
+            "supporter": "58 Dəstəkçi"
+        },
+        {
+            "id": "2",
+            "name": "Couple traveller influencer",
+            "profession": "Evsiz Səyyahlar",
+            "image": "https://kofe.al/storage/images/users/D5EiUEWH68Cts3WCCe5VhzuJYqU09LpfKvAuiBAA.jpg",
+            "supporter": "54 Dəstəkçi"
+        },
+        {
+            "id": "3",
+            "name": "Ahu Kamranlı",
+            "profession": "Gəzən, araşdıran, paylaşan",
+            "image": "https://kofe.al/storage/images/users/65d9b8b8e91d0.jpeg",
+            "supporter": "57 Dəstəkçi"
+        },
+        {
+            "id": "4",
+            "name": "Murad Mammadov",
+            "profession": "Təlimçi, blogger",
+            "image": "https://kofe.al/storage/images/users/64bed71db4dbe.png",
+            "supporter": "109 Dəstəkçi"
+        },
+        {
+            "id": "5",
+            "name": "Chene Podcast",
+            "profession": "Çənə Podcast",
+            "image": "https://kofe.al/storage/images/users/65f6e1d18783f.jpg",
+            "supporter": "20 Dəstəkçi"
+        },
+        {
+            "id": "6",
+            "name": "Vüsal Vəliyev",
+            "profession": "TikTok-da oyun yayınları açarağ tanınan biri.",
+            "image": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+            "supporter": "119 Dəstəkçi"
+        },
+        {
+            "id": "7",
+            "name": "Türkan İsmayıllı",
+            "profession": "Autizm sindromlu uşaqlar üçün Animasiya kanalı",
+            "image": "https://kofe.al/storage/images/users/64cd3091e8246.png",
+            "supporter": "22 Dəstəkçi"
+        },
+        {
+            "id": "8",
+            "name": "Sevinj Aliyeva",
+            "profession": "Mentor/ Sosial İşçi/ Tәlimçi",
+            "image": "https://kofe.al/storage/images/users/64cf9091b1720.jpg",
+            "supporter": "13 Dəstəkçi"
+        },
+        {
+            "id": "9",
+            "name": "Anar Aliyev",
+            "profession": "Urban blogger",
+            "image": "https://kofe.al/storage/images/users/64c57374916c4.jpg",
+            "supporter": "24 Dəstəkçi"
+        }
+    ],
+    "advertisements": [
+        {
+            "id": "1",
+            "image": "https://kofe.al/storage/images/users_posts/1wtFgyIKxPvorJtbX9LwMvG2gCZMHASwFSXKBwt1.jpg",
+            "topic": "Kassir Qızın Təbəssümü"
+        },
+        {
+            "id": "2",
+            "image": "https://kofe.al/storage/images/users_posts/ki8myVKIHvfJIFM0jyrwCBcMRFTuNMqy9oKdTXgO.jpg",
+            "topic": "Təyyarənin Apardığı Yer"
+        },
+        {
+            "id": "3",
+            "image": "https://kofe.al/storage/images/users_posts/ax69iwr4r2mgvbCjmD3X5AIY2khndu6KYQafHbld.jpg",
+            "topic": "Mənim adım SEİKO-dur."
+        },
+        {
+            "id": "4",
+            "image": "https://kofe.al/storage/images/users_posts/FlFpXwCFxyIuHvqwAdDVifiUDr2trRn0I7dQdsHP.jpg",
+            "topic": "Qız İstəməyə Getdik"
+        },
+        {
+            "id": "5",
+            "image": "https://kofe.al/storage/images/users_posts/X1lpJTCYDypbh7VvKdrc784xeYf8OvkLW4IJGo6f.jpg",
+            "topic": "Panel vurmaq nə tip fayda verir?",
+            "text": " 'Panel vurmaq' ifadəsi sosial media sayəsində artıq çoxunuza tanışdır. Gəlin panel vurmağın törədə biləcəyi uzun müddətli fəsadlardan bəhz edək."
+        },
+        {
+            "id": "6",
+            "image": "https://kofe.al/storage/images/users_posts/fgkXoi4hdoPFLMZ07JHQ5WzKU3eKmdhDhmvQmIbv.jpg",
+            "topic": "Filmaniya",
+            "text": " Filmaniya nədir?"
+        },
+        {
+            "id": "7",
+            "image": "https://kofe.al/storage/images/users_posts/GYFWrJZ7AI3XR9IJ8Hr2EROIPylZi949CYCHwGOw.jpg",
+            "topic": "Bundan sonra daha effektiv yazacaqsan!",
+            "text": "Adətən mətn yazarkən diqqətdən qaçırdığımız bir sıra məqamlar olur. Onun strukturu, vermək istədiyimiz mesajın zamanlaması və forması çox vaxt oxucunu"
+        },
+        {
+            "id": "8",
+            "image": "https://kofe.al/storage/images/users_posts/SM8S3Zgsh6TXX7XqfKdn3AXiPyJ3F2MC67ptRdeh.jpg",
+            "topic": "“Uğur hekayəm”",
+            "text": "“Bir Fincan Çay”"
+        },
+        {
+            "id": "9",
+            "image": "https://kofe.al/storage/images/users_posts/T4V7vyyfmToenzeByo58EVP5xqp3j9C0eXQGkyPS.jpg",
+            "topic": "Worldef Istanbul tədbirinə ÖDƏNİŞSİZ Bilet",
+            "text": "Worldef Istanbul iştirak etmək istəyən şəxslər üçün ödənişsiz bilet əldə etmək istəyənlər üçün şans"
+        },
+        {
+            "id": "10",
+            "image": "https://kofe.al/storage/images/users_posts/nnjA4vCkIqCfe4eFz9YfBmtLBBklf8RLbI3aJzBd.jpg",
+            "topic": "Nəbi Xəzri -'Ürək'",
+            "text": "Nəbi Xəzrinin - Ürək şeiri ilə tanış olaq"
+        }
+    ]
+}

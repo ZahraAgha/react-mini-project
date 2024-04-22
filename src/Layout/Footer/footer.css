@@ -1,0 +1,20 @@
+.footer {
+  margin-top: 50px;
+  height: 50vh;
+}
+
+.footer-img img {
+  width: 240px;
+  height: 54px;
+}
+
+.xususi {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.footer ul {
+  display: flex;
+  flex-direction: column;
+}
